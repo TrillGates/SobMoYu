@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="UCenter" />
         <module name="common" />
         <module name="MoYu" />
+        <module name="Ota" />
+        <module name="mo-yu-jun" />
         <module name="Common" />
         <module name="u-center" />
-        <module name="mo-yu-jun" />
-        <module name="Ota" />
+        <module name="UCenter" />
         <module name="ota" />
       </profile>
     </annotationProcessing>
